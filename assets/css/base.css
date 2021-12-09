@@ -1,0 +1,57 @@
+.navbar-list.active1 {
+    background-image: linear-gradient( 142.17deg,#4f93f1 6.66%,#de30fd 91.48%);
+    box-shadow: inset -0.25rem -0.25rem 0.3125rem rgb(0 0 0 / 10%), inset 0.25rem 0.25rem 0.3125rem rgb(255 255 255 / 23%);
+}
+
+.active1 {
+    display: block !important; 
+    
+}
+
+.open {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+.extend{
+    display: none
+}
+
+.space {
+    margin: 60px 0 80px 0;
+}
+
+.center{
+    text-align: center;
+}
+
+.html{
+    color: #FF9900;
+}
+
+.css{
+    color: #146EB4;
+}
+
+.js{
+    color: #ece90f;
+}
+
+.reactjs{
+    color: #1DA1F2;
+}
+
+.nodejs{
+    color: #25D366;
+}
+
+.php{
+    color: #8A3AB9;
+}
+
+
+
+
